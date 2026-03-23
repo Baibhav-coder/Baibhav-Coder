@@ -11,7 +11,19 @@
 ---
 
 <h3 align="center">🛠️ Tech Stack</h3>
+<div align="center">
 
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS_IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudTrail-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GuardDuty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/MITRE_ATT&CK-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+
+</div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,aws,js,html,css,mysql,git,linux" />
 </div>
